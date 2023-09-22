@@ -11,5 +11,4 @@
 | 41 | 6 | BRTT and AVR FreeRTOS |
 | 42 | 7 | BRTT and Linux |
 | 43 | 8 | BRTT and PREEMPT RT |
-| 44 | 9 |  |
-| 45 | Theory exercise | To be announced |
+| 44 | Theory exercise | 31-10-2023, 18:15-20:15, EL3 |
