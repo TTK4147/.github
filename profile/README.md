@@ -11,4 +11,4 @@
 | 42 | 6 | BRTT and AVR FreeRTOS |
 | 43 | 7 | BRTT and Linux |
 | 44 | 8 | BRTT and PREEMPT RT |
-| 45 | Theory exercise | - |
+| 45 | Theory exercise | 06.11.2024, 18:15 |
