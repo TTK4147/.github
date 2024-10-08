@@ -10,5 +10,5 @@
 | 41 | 5 | BRTT and AVR UC3 |
 | 42 | 6 | BRTT and AVR FreeRTOS |
 | 43 | 7 | BRTT and Linux |
-| 44 | 8 | Additional session |
+| 44 | 8 | BRTT and PREEMPT RT |
 | 45 | Theory exercise | 06.11.2024, 18:15 |
