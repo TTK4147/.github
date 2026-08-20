@@ -9,6 +9,6 @@
 | 39 | 4 | Concurrency |
 | 40 | 5 | BRTT and AVR UC3 |
 | 41 | 6 | BRTT and AVR FreeRTOS |
-| 42 | 7 | BRTT and Linux |
-| 43 | 8 | BRTT and PREEMPT RT |
-| 44 | Theory exercise | TBD |
+| 42 | Theory exercise / 7 | BRTT and Linux |
+| 43 | 7 / 8 | BRTT and PREEMPT RT |
+| 44 | 8 | TBD |
